@@ -1,0 +1,24 @@
+{
+  "name": "slot_machine",
+  "version": "1.0.0",
+  "description": "Just a slot machine for fun !",
+  "keywords": [
+    "slot",
+    "machine",
+    "gamble"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "slot-machine-js"
+  },
+  "license": "ISC",
+  "author": "NamanGoyalK",
+  "type": "commonjs",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
